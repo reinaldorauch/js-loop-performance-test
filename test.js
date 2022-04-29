@@ -46,7 +46,7 @@ function test(e) {
   score.startCount('while');
 
   while(i >= 0) {
-    data[i];
+    1+1;
 
     i--;
   }
@@ -60,7 +60,7 @@ function test(e) {
   score.startCount('doWhile');
 
   do {
-    data[i];
+    1+1;
 
     i--;
   } while (i >= 0);
